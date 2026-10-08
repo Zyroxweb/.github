@@ -1,1 +1,1 @@
-<img src="./Group 6.png" />
+<img src="./banner_lg.png" />
